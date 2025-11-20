@@ -75,6 +75,8 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
     # },
 }
+#여기에 만드쇼
+labels[0]:{"texts": ["중국식 내면은 맛도리임"], "image []},
 
 # ======================
 # 유틸
